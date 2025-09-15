@@ -1,4 +1,4 @@
-# 🎰 WSOP Video Poker - Web App
+# 🎰 Hensby's Video Poker - Web App
 
 > A full-stack World Series of Poker inspired video poker game built with Next.js 14, Firebase, and modern web technologies. Play risk-free, earn chips, and climb the global leaderboards!
 
