@@ -5,7 +5,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-10.9-orange)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
