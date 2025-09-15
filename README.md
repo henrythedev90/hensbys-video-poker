@@ -423,10 +423,3 @@ firebase login
 # Check project configuration
 firebase use --add
 ```
-
-### Getting Help
-
-- 🐛 [Report Issues](https://github.com/yourusername/wsop-video-poker/issues)
-- 💬 [Discussions](https://github.com/yourusername/wsop-video-poker/discussions)
-- 📧 Email: your-email@domain.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
